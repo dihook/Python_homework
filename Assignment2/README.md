@@ -1,4 +1,4 @@
-# Assignment: Animated Order Visualization
+# Assignment: Data Visualization
 
 This project visualizes order data from the UCI Daily Demand Forecasting Orders dataset using animated line charts and heart shapes.
 
@@ -25,3 +25,4 @@ This project visualizes order data from the UCI Daily Demand Forecasting Orders 
 
 ## License
 MIT
+
